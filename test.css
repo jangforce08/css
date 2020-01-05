@@ -1,0 +1,79 @@
+:root{
+    --animated-size: 50px;
+}
+.fr-popup .fr-emoticon {
+	font-size: 30px;
+    width: 30px;
+}
+
+.fr-popup .fr-emoticon img {
+	height: 25px;
+}
+
+span[data-param1*="JKanStyle"] img {
+    background: url(https://2.bp.blogspot.com/-oQ_PxbJiG90/XhHtf_sV6tI/AAAAAAAAD7E/prCzejB3KTUCffDkFXe1hWKdSAFau-IsACLcBGAsYHQ/s320/b9d47b4b81630ccb20399302973b4f68.gif.gif);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt*="JKanStyle"],
+#article-content-wrapper #article-content img[alt*="JKanStyle"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt*="JKanStyle"] {
+    background: url(https://2.bp.blogspot.com/-oQ_PxbJiG90/XhHtf_sV6tI/AAAAAAAAD7E/prCzejB3KTUCffDkFXe1hWKdSAFau-IsACLcBGAsYHQ/s320/b9d47b4b81630ccb20399302973b4f68.gif.gif);
+    width: 100px;
+    height: 100px !important;
+    padding-left: 100px;
+    background-size: 100px 100px;
+}
+
+span[data-param1*="OptimizePrime"] img {
+    background: url(https://3.bp.blogspot.com/-qL1C9pYIgFU/W06ZErSbC8I/AAAAAAAACsM/I3xjmrCTasc0VrRDLscSek8o1O_Ilwq1wCLcBGAs/s1600/123123.png);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt*="OptimizePrime"],
+#article-content-wrapper #article-content img[alt*="OptimizePrime"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt*="OptimizePrime"] {
+    background: url(https://3.bp.blogspot.com/-qL1C9pYIgFU/W06ZErSbC8I/AAAAAAAACsM/I3xjmrCTasc0VrRDLscSek8o1O_Ilwq1wCLcBGAs/s1600/123123.png);
+    width: 100px;
+    height: 100px !important;
+    padding-left: 100px;
+    background-size: 100px 100px;
+}
+
+span[data-param1*="StoneLightning"] img {
+    background: url(https://4.bp.blogspot.com/-EcGtXLWG6BY/W06ZEtldkLI/AAAAAAAACsI/iQP9-DzmBSEERqmKR2M6q3Ja292BLUHvgCLcBGAs/s1600/1231231231.png);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt*="StoneLightning"],
+#article-content-wrapper #article-content img[alt*="StoneLightning"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt*="StoneLightning"] {
+    background: url(https://4.bp.blogspot.com/-EcGtXLWG6BY/W06ZEtldkLI/AAAAAAAACsI/iQP9-DzmBSEERqmKR2M6q3Ja292BLUHvgCLcBGAs/s1600/1231231231.png);
+    width: 100px;
+    height: 100px !important;
+    padding-left: 100px;
+    background-size: 100px 100px;
+}
+
+span[data-param1*="SwiftRage"] img {
+    background: url(https://2.bp.blogspot.com/-oQ_PxbJiG90/XhHtf_sV6tI/AAAAAAAAD7E/prCzejB3KTUCffDkFXe1hWKdSAFau-IsACLcBGAsYHQ/s320/b9d47b4b81630ccb20399302973b4f68.gif.gif);
+    width: 25px;
+    padding-left: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt*="SwiftRage"],
+#article-content-wrapper #article-content img[alt*="SwiftRage"],
+#article-reply-area #reply-real-area .reply > .reply-content img[alt*="SwiftRage"] {
+    background: url(https://2.bp.blogspot.com/-oQ_PxbJiG90/XhHtf_sV6tI/AAAAAAAAD7E/prCzejB3KTUCffDkFXe1hWKdSAFau-IsACLcBGAsYHQ/s320/b9d47b4b81630ccb20399302973b4f68.gif.gif);
+    width: 100px;
+    height: 100px !important;
+    padding-left: 100px;
+    background-size: 100px 100px;
+}
